@@ -1,5 +1,8 @@
 Rencana Konten Website
 - Membuat Halaman Utama
+  - Update berita terbaru
 - Membuat Halaman About Us
 - Membuat Halaman Materi
+  - Materi Psikologi Perusahaan
+  - Materi Manajemen Mutu
 - Membuat Halaman Quiz
